@@ -9,5 +9,11 @@ title: "VOCÊ SABIA?"
 
    Tópico de ZOOLOGIA: Estudo de Protozoários que podem ocasionar a _MORTE!_
  - Mapeamento de casos de Leishmimaniose no _BRASIL_
- - Relação entre as variações climáticas e a incidência da Leishimaniose nas regiões brasileiras
+ - Relação entre as variações climáticas e a incidência da Leishmaniose nas regiões brasileiras
  - O que a população deve saber? 
+ 
+ 
+ ![](LTA_mapa.PNG)
+ 
+ 
+ ![](LV_mapa.PNG)
