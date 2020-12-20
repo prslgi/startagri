@@ -1,0 +1,19 @@
+name: "startAGRI"
+output_dir: "."
+navbar:
+  title: "startAGRI"
+  left:
+    - text: "Início"
+      href: index.html
+    - text: "Sobre"
+      href: about.html
+    - text: "Você Sabia?"
+      href: projects.html
+      
+output:
+  html_document:
+    theme: sandstone
+    css: style.css
+    
+    
+    
