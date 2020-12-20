@@ -1,19 +1,19 @@
 ---
-title: "VOCÊ SABIA?"
+title: "RADAR LESHIMANIOSE"
 ---
 
 
 
-  Este espaço será reservado para disponibilização de curiosidades e estudos relacionados a 
-  #AGRICULTURA #CIÊNCIA #AGRISCIENCE #CURIOSIDADES
 
-   Tópico de ZOOLOGIA: Estudo de Protozoários que podem ocasionar a _MORTE!_
- - Mapeamento de casos de Leishmimaniose no _BRASIL_
- - Relação entre as variações climáticas e a incidência da Leishmaniose nas regiões brasileiras
- - O que a população deve saber? 
+**INFORMAÇÃO AOS LEITORES**
+
+  
+Olá AGROLEITORES, hoje iremos mostrar alguns dados sobre uma doença causada por protozoário, a _LEISHMANIOSE_
+    
+* Variabilidade Espacial dos casos de Leishmaniose Tegumentar e Viceral no Brasil (2001-2019)
  
  
- ![](LTA_mapa.PNG)
+![](LTA_mapa.PNG)
  
  
- ![](LV_mapa.PNG)
+![](LV_mapa.PNG)

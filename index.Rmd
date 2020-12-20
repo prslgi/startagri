@@ -1,10 +1,11 @@
 ---
-title: "startAGRI"
+title: ""
 ---
+
+
+<img class = "svg logo" src="logo.PNG" style="width:25%; border:0px solid; margin-right: 20px" align="left">
 
 Atualizando.... 
 
-_Em desenvolvimento por Gislaine, Mailton e Maria Eduarda_
-
-
+**Developed by Gislaine, Mailton e Maria Eduarda**
 
