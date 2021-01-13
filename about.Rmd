@@ -1,21 +1,29 @@
 ---
-title: ""
+title: ''
 ---
 
 
-<p><strong><center> <h2> Nossa Equipe </h2> </p> <strong> </center>
+ <h3><strong>Nossa Equipe</strong></h3>
+ <br/>
+ <br/>
+<body>
+<p><img  src="gi.png" style="width:7%; border:0px solid; margin-right: 20px" align="left"></p>
 
-<img class = "IG" src="gi.png" style="width:25%; border:0px solid; margin-right: 20px" align="left">
-<h3> Gislaine S. Pereira </h3>
-<strong>CEO</strong>
-Responsável pelas tomadas de decisões sobre todos os níveis operacionais da organização da startAGRI
+<p><strong>Gislaine S. Pereira</strong></p>
+<p>CEO</p>
+<p>Responsável pelas tomadas de decisões sobre todos os níveis operacionais da organização da startAGRI</p>
 
-<img class = "IGG" src="duda.png" style="width:25%; border:0px solid; margin-right: 20px" align="left">
-Eduarda N. Favaro 
-<strong>COB</strong>
-Responsável por toda a parte comercial da startAGRI
+<br/>
+<br/>
+<p><img src="duda.png" style="width:8%; border:0px solid; margin-right: 20px" align="left"></p>
+<p><strong>Eduarda N. Favaro</strong></p>
+<p>COB</p>
+<p>Responsável por toda a parte comercial da startAGRI</p>
 
-<img class = "IGGG" src="mailton.png" style="width:25%; border:0px solid; margin-right: 20px" align="left">
-Mailton Stopa
-<strong>CFO</strong>
-Encarregado do planejamento econômico e financeiro da startAGRI
+<br/>
+<p><img src="mailton.png" style="width:7%; border:0px solid; margin-right: 20px" align="left"></p>
+<p><strong>Mailton Stopa</strong></p>
+<p>CFO</p>
+<p>Encarregado do planejamento econômico e financeiro da startAGRI</p>
+</body>
+<br/>
