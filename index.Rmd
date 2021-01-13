@@ -1,12 +1,24 @@
 ---
-title: ""
+title: "SINCE 2020"
 ---
 
 
 <img class = "svg logo" src="logo.PNG" style="width:25%; border:0px solid; margin-right: 20px" align="left">
 
-Atualizando.... 
-
-**Developed by Gislaine, Mailton e Eduarda**
+<p> Atualizando.... </p>
 
 
+<h1><center>Missão & Valores </h1></center>
+
+
+A startAGRI tem como missão através da ciência unir pessoas por meio de atividades que garantam retornos para sociedade. 
+
+
+<center><strong><h2>COMPROMISSO</h2></center></strong>
+Com a população em busca de melhorias a partir de tecnologias do mercado.
+
+<center><strong><h2>INOVAÇÃO</h2></center></strong>
+Por meio da ciência e tecnologia.
+
+<center><strong><h2>QUALIDADE</h2></center></strong>
+Sempre priorizar a qualidade dos produtos e serviços prestados. 
