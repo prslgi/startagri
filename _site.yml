@@ -2,14 +2,15 @@ name: "startAGRI"
 output_dir: "."
 navbar:
   title: "startAGRI"
-  type: inverse
   left:
     - text: "Início"
       icon: fa-home
       href: index.html
     - text: "Sobre"
+      icon: fa-info
       href: about.html
     - text: "Nossos Produtos"
+      icon: fa-gear
       href: projects.html
       menu:
         - text: "Produtos"
