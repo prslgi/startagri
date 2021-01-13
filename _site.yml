@@ -4,6 +4,7 @@ navbar:
   title: "startAGRI"
   left:
     - text: "Início"
+      icon: logo.PNG
       href: index.html
     - text: "Sobre"
       href: about.html
