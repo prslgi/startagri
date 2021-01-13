@@ -15,6 +15,11 @@ output:
     theme: sandstone
     css: style.css
 
+    include:
+      after_body: footer.html
+
+
+
     
     
     
