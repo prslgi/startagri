@@ -8,7 +8,7 @@ navbar:
       href: index.html
     - text: "Sobre"
       href: about.html
-    - text: "Você Sabia?"
+    - text: "Nossos Produtos"
       href: projects.html
       menu:
         - text: "Heading 1"
