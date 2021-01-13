@@ -19,7 +19,12 @@ output:
     include:
       after_body: footer.html
 
-
+menu:
+        - text: "Heading 1"
+        - text: "Page A"
+          href: page-a.html
+        - text: "Page B"
+          href: page-b.html
 
     
     
