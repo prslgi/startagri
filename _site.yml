@@ -10,6 +10,12 @@ navbar:
       href: about.html
     - text: "Você Sabia?"
       href: projects.html
+      menu:
+        - text: "Heading 1"
+        - text: "Page A"
+          href: page-a.html
+        - text: "Page B"
+          href: page-b.html
       
 output:
   html_document:
@@ -19,12 +25,7 @@ output:
     include:
       after_body: footer.html
 
-menu:
-        - text: "Heading 1"
-        - text: "Page A"
-          href: page-a.html
-        - text: "Page B"
-          href: page-b.html
+
 
     
     
