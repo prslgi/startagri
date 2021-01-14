@@ -2,6 +2,7 @@ name: "startAGRI"
 output_dir: "."
 navbar:
   title: "startAGRI"
+  icon: fa-leaf
   left:
     - text: "Início"
       icon: fa-home
@@ -13,7 +14,6 @@ navbar:
       icon: fa-gear
       href: projects.html
       menu:
-        - text: "Produtos"
         - text: "Radar Leishmania"
           href: page-a.html
         - text: "Outros"
@@ -23,9 +23,6 @@ output:
   html_document:
     theme: sandstone
     css: style.css
-
-    include:
-      after_body: footer.html
 
 
 
