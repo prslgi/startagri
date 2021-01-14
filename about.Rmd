@@ -1,10 +1,35 @@
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
+<style type = "text/css"> 
+body {background-image:url('plano2.jpg');}
+
+h1 {
+  text-align: center;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 25px
+  font-weight: normal;
+  color: #454140;
+  border-bottom: 2px dotted #454140;
+  margin-top: 30px;
+}
+
+h2 {
+  color: #454140;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 20px;
+}
+
+
+</style>
+</head>
+<body>
 <title>A startAGRI </title>
 
 
  <h3><strong>Nossa Equipe</strong></h3>
  <br/>
  <br/>
-<body>
 <p><img  src="gi.png" style="width:7%; border:0px solid; margin-right: 20px" align="left"></p>
 
 <p><strong>Gislaine S. Pereira</strong></p>
@@ -25,3 +50,4 @@
 <p>Encarregado do planejamento econômico e financeiro da startAGRI</p>
 </body>
 <br/>
+</html>
