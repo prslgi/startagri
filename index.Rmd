@@ -25,9 +25,6 @@ h2 {
 </style>
 </head>
 <body>
-
-
-
 <h1><center><strong>Missão & Valores</strong></center></h1>
 
 <h2>A startAGRI tem como missão através da ciência unir pessoas por meio de atividades que garantam retornos para sociedade. 

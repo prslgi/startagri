@@ -25,9 +25,6 @@ h2 {
 </style>
 </head>
 <body>
-<title>A startAGRI </title>
-
-
  <h3><strong>Nossa Equipe</strong></h3>
  <br/>
  <br/>
