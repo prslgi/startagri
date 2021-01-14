@@ -21,7 +21,7 @@ navbar:
       
 output:
   html_document:
-    theme: simplex
+    theme: united
     css: style.css
 
 
