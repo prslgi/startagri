@@ -1,3 +1,8 @@
+---
+output: html_document
+title: "Sobre Nós"
+---
+
 <html>
 <head>
 <title> Sobre nós </title>
@@ -21,6 +26,9 @@ h2 {
   font-size: 20px;
 }
 
+.title{
+    display: none;
+  }
 
 </style>
 </head>

@@ -1,11 +1,10 @@
 ---
 output: html_document
-title: "r title_var"
+title: "Início"
 ---
 
 <html> 
 <head>
-<title> Inicio </title>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
 <style type = "text/css"> 
 body {background-image:url('start.jpg');}
