@@ -56,4 +56,12 @@ h2 {
 <p>Encarregado do planejamento econômico e financeiro da startAGRI</p>
 </body>
 <br/>
+
+
+<strong>CONTATO: </strong>
+
+<p>e-mail: contato@startagri.br </p>
+<p>telefone: (44) 99815-2759 </p>
+
+
 </html>

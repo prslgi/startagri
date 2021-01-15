@@ -1,17 +1,17 @@
 name: "startAGRI"
 output_dir: "."
 navbar:
-  title: "startAGRI"
-  icon: <img src="https://uploads-ssl.webflow.com/5e308160a637f2d883b60a59/5e308160a637f23a6ab60aae_logo-funf.svg" alt="" class="image-8">
+  title: ""
+  icon:
   left:
     - text: "Início"
       icon: fa-home
       href: index.html
     - text: "Sobre"
-      icon: fa-info
+      icon: fa-envelope
       href: about.html
     - text: "Nossos Produtos"
-      icon: fa-gear
+      icon: fa-check
       href: projects.html
       menu:
         - text: "Radar Leishmania"
