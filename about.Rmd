@@ -45,13 +45,13 @@ h2 {
 <br/>
 <br/>
 <p><img src="duda.png" style="width:8%; border:0px solid; margin-right: 20px" align="left"></p>
-<p><strong>Eduarda N. Favaro</strong></p>
+<p><strong>Eduarda N. Favarao</strong></p>
 <p>COB</p>
 <p>Responsável por toda a parte comercial da startAGRI</p>
 
 <br/>
 <p><img src="mailton.png" style="width:7%; border:0px solid; margin-right: 20px" align="left"></p>
-<p><strong>Mailton Stopa</strong></p>
+<p><strong>Mailton S. Stopa</strong></p>
 <p>CFO</p>
 <p>Encarregado do planejamento econômico e financeiro da startAGRI</p>
 </body>
